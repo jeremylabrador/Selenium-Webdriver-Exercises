@@ -16,13 +16,19 @@ Automated Testing Practice Exercises
 3) test suite practice exercise
 
 #### From your chosen IDE, run each file separately:
+```
 iframe_and_alert_window_practice_exercises.py
 xpath_practice_exercises.py
+```
 
 #### From your chosen IDE, to run the test suite practice exercise, place these files in a directory:
+```
 test_list_methods_one.py
 test_list_methods_two.py
 test_suite_practice_exercise.py
+```
 
 #### run:
+```
 test_suite_practice_exercise.py
+```

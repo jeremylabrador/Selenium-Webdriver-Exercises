@@ -2,6 +2,8 @@
 
 Automated Testing Practice Exercises
 
+Download and unzip the directories and files to your computer. Follow below to run!
+
 #### Tested using:
 * System: Windows 10
 * Browsers: Firefox Version 71.0 (64-bit), Chrome Version 79.0.3945.79 (64-bit)
